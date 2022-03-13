@@ -7,6 +7,9 @@ CSS
 Html
 jQuery
 Bootstrap
+# Setup/Installation Requirements
+git clone
+
 
 
 
