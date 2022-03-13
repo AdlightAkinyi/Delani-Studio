@@ -8,7 +8,7 @@ Html
 jQuery
 Bootstrap
 # Setup/Installation Requirements
-git clone
+git clone https://github.com/C0159412020/Delani-Studio.git
 # Licence
 C0159412020/Delani-Studio is licensed under the
 
