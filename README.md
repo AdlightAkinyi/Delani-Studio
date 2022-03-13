@@ -12,6 +12,7 @@ git clone
 # Licence
 # support details and contact details
 0797523148
+adlightakinyi1@gmail.com
 
 
 
