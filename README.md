@@ -10,6 +10,10 @@ Bootstrap
 # Setup/Installation Requirements
 git clone
 # Licence
+C0159412020/Delani-Studio is licensed under the
+
+MIT License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code
 # support details and contact details
 0797523148
 adlightakinyi1@gmail.com
