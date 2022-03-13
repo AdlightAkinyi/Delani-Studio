@@ -9,6 +9,7 @@ jQuery
 Bootstrap
 # Setup/Installation Requirements
 git clone
+# Licence
 
 
 
